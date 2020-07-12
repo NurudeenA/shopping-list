@@ -1,1 +1,1 @@
-# shopping-list-2
+# shopping-list
